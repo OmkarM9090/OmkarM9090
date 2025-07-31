@@ -74,33 +74,43 @@ I am a Third-Year Computer Engineering student with hands-on experience in build
 
 <hr/>
 
-### 📌 Pinned Repositories
+### 🚀 My Projects
 
-<table align="center">
+<table>
 <tr>
-<td width="50%" align="center">
-  <a href="https://github.com/OmkarM9090/100x-Buildathon"><strong>100x-Buildathon</strong></a><br/>
-  <sub><b>Language:</b> TypeScript</sub>
+<td width="50%">
+<h4 align="center">InstaVibe - Social Media App</h4>
+<p align="center">
+  An Instagram-like full-stack app with post uploads, user feeds, search, and delete functionality.
+  <br/><br/>
+  <strong>Tech:</strong> React, Node.js, Express, MongoDB, Cloudinary
+</p>
 </td>
-<td width="50%" align="center">
-  <a href="https://github.com/OmkarM9090/D2K_CodeSorcerers"><strong>D2K_CodeSorcerers</strong></a><br/>
-  <sub><b>Language:</b> Jupyter Notebook</sub>
+<td width="50%">
+<h4 align="center">Speedo Type - Typing Test</h4>
+<p align="center">
+  A responsive app that measures typing speed with real-time WPM, accuracy, and error tracking.
+  <br/><br/>
+  <strong>Tech:</strong> React.js, CSS
+</p>
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
-  <a href="https://github.com/OmkarM9090/IBM_DevOps"><strong>IBM_DevOps</strong></a><br/>
-  <sub><b>Language:</b> Batchfile</sub>
+<td width="50%">
+<h4 align="center">Attendance Management System</h4>
+<p align="center">
+  A GUI-based desktop app to manage and track student attendance with MySQL database integration.
+  <br/><br/>
+  <strong>Tech:</strong> Java, Java Swing, MySQL
+</p>
 </td>
-<td width="50%" align="center">
-  <a href="https://github.com/OmkarM9090/nirvana-ai"><strong>nirvana-ai</strong></a><br/>
-  <sub><b>Language:</b> JavaScript</sub>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-  <a href="https://github.com/OmkarM9090/safenet"><strong>safenet</strong></a><br/>
-  <sub><b>Language:</b> TypeScript</sub>
+<td width="50%">
+<h4 align="center">Virtual Banking System</h4>
+<p align="center">
+  An ATM simulator with fund transfers, balance checks, transaction history, and PIN management.
+  <br/><br/>
+  <strong>Tech:</strong> Java, Java Swing, MySQL
+</p>
 </td>
 </tr>
 </table>
