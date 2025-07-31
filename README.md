@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Omkar Mahadik</h1>
-<h3 align="center">A motivated and quick-learning Computer Engineering student with a passion for Full-Stack Development.</h3>
+<div align="center">
+  <h1>Hi there, I'm Omkar Mahadik 👋</h1>
+  <h3>A passionate Computer Engineering student specializing in Full-Stack Development.</h3>
+</div>
 
 <p align="center">
   <a href="https://github.com/OmkarM9090" target="_blank">
@@ -16,31 +18,30 @@
   </a>
 </p>
 
----
+<hr/>
 
-### 🙋‍♂️ About Me
-[cite_start]I am a Third-Year Computer Engineering student with hands-on experience in building user-centric web applications using the MERN stack[cite: 8]. [cite_start]I have a strong interest in software development and I'm always eager to learn new technologies and grow in a collaborative environment[cite: 10, 11].
+### 👨‍💻 About Me
 
-- [cite_start]🌱 I’m currently focused on **Full-Stack Web Development** and **Software Engineering**[cite: 40].
-- [cite_start]👯 I’m looking for an **internship opportunity** to contribute my skills and learn from experienced developers[cite: 11].
-- [cite_start]📫 You can reach me at **omkarmahadik180@gmail.com**[cite: 4].
-- 💬 Ask me about **React, Node.js, Java, and MERN stack development**.
+I am a Third-Year Computer Engineering student with hands-on experience in building user-centric web applications using the MERN stack. I have a strong interest in software development and I'm always eager to learn new technologies and grow in a collaborative environment.
 
----
+- 🌱 Focused on **Full-Stack Web Development** and **Software Engineering**.
+- 🤝 Looking for an **internship opportunity** to contribute my skills and learn from experienced developers.
+- 💬 Ask me about **React, Node.js, Java,** and **MERN stack development**.
+
+<hr/>
 
 ### 📊 My GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmkarM9090&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Omkar's GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarM9090&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
 </p>
 
----
+<hr/>
 
-### 🛠️ Technical Skills
+### 🛠️ My Skills
 
-<table>
+<table align="center">
   <tr>
     <td align="center"><strong>Languages</strong></td>
     <td>
@@ -50,16 +51,14 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>Frameworks & Technologies</strong></td>
+    <td align="center"><strong>Frameworks & Libraries</strong></td>
     <td>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-      <img src="https://img.shields.io/badge/Java%20Swing-525252?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Swing"/>
     </td>
   </tr>
   <tr>
@@ -74,46 +73,59 @@
   </tr>
 </table>
 
----
+<hr/>
 
-### 🚀 Projects
+### 🚀 My Projects
 
-- [cite_start]**InstaVibe - Social Media Web App** [cite: 22]
-  - [cite_start]**Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js), Cloudinary[cite: 22].
-  - [cite_start]An Instagram-like full-stack app with features like post uploads, user feeds, search, and delete functionality[cite: 23]. [cite_start]Images are hosted using Cloudinary[cite: 24].
+<table>
+<tr>
+<td width="50%">
+<h4 align="center">InstaVibe - Social Media App</h4>
+<p align="center">
+  An Instagram-like full-stack app with post uploads, user feeds, search, and delete functionality.
+  <br/><br/>
+  <strong>Tech:</strong> React, Node.js, Express, MongoDB, Cloudinary
+</p>
+</td>
+<td width="50%">
+<h4 align="center">Speedo Type - Typing Test</h4>
+<p align="center">
+  A responsive app that measures typing speed with real-time WPM, accuracy, and error tracking.
+  <br/><br/>
+  <strong>Tech:</strong> React.js, CSS
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h4 align="center">Attendance Management System</h4>
+<p align="center">
+  A GUI-based desktop app to manage and track student attendance with MySQL database integration.
+  <br/><br/>
+  <strong>Tech:</strong> Java, Java Swing, MySQL
+</p>
+</td>
+<td width="50%">
+<h4 align="center">Virtual Banking System</h4>
+<p align="center">
+  An ATM simulator with fund transfers, balance checks, transaction history, and PIN management.
+  <br/><br/>
+  <strong>Tech:</strong> Java, Java Swing, MySQL
+</p>
+</td>
+</tr>
+</table>
 
-- [cite_start]**Speedo Type - Typing Speed Test App** [cite: 25]
-  - [cite_start]**Tech Stack:** React.js[cite: 25].
-  - [cite_start]A responsive app that measures typing speed with real-time WPM, accuracy, and error tracking[cite: 26].
+<hr/>
 
-- [cite_start]**Maharashtra Tourism Website** [cite: 27]
-  - [cite_start]**Tech Stack:** HTML, CSS, JavaScript, Bootstrap[cite: 27].
-  - [cite_start]A frontend website showcasing Maharashtra tourism with embedded maps, videos, and categorized sightseeing information[cite: 28].
+### 🎓 Education & Certifications
 
-- [cite_start]**Attendance Management System** [cite: 29]
-  - [cite_start]**Tech Stack:** Java, Java Swing, MySQL[cite: 29].
-  - [cite_start]A GUI-based desktop app to manage and track student attendance with search and display functionalities[cite: 30].
+<p align="center">
+  <strong>B.E. in Computer Engineering</strong><br/>
+  Watumull Institute of Technology and Engineering (2023-2027)
+</p>
 
-- [cite_start]**Virtual Banking System** [cite: 31]
-  - [cite_start]**Tech Stack:** Java, Java Swing, MySQL[cite: 31].
-  - [cite_start]An ATM simulator with functionalities like login, balance check, fund transfers, and transaction history[cite: 32].
-
----
-
-### 🎓 Education
-
-- **B.E. in Computer Engineering** | [cite_start]Watumull Institute of Technology and Engineering [cite: 13]
-  - [cite_start]*2023-2027 (Pursuing)* [cite: 13]
-  - [cite_start]CGPA: 8.67 (Till Sem 4) [cite: 13]
-
-- **HSC (Science)** | K.V. [cite_start]Pendharkar College [cite: 14]
-  - [cite_start]*2021-2023* [cite: 15]
-
----
-
-### 📜 Certifications & Hackathons
-
-- [cite_start]**Full Stack Web Development (MERN)** - Success Classes of Engineering (2025) [cite: 35]
-- [cite_start]**Core Java Programming** - Success Classes of Engineering (2024) [cite: 34]
-- [cite_start]**MySQL** - Udemy (2025) [cite: 36]
-- [cite_start]**Participant** @ **Hack To Crack 2.0** - A 2-Day National Level Hackathon[cite: 37, 38].
+<p align="center">
+  <strong>Full Stack Web Development (MERN)</strong> - Certification<br/>
+  <strong>Core Java Programming</strong> - Certification
+</p>
