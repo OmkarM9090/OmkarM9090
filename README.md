@@ -1,100 +1,106 @@
-<!-- GitHub Profile README - Omkar Mahadik -->
+<!-- Omkar Mahadik - GitHub README -->
 
-<!-- Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F73C3C&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Omkar+Mahadik+👋;Passionate+Full-Stack+Developer+🚀;Java+%7C+MERN+%7C+MySQL+%7C+Firebase+🔥;Always+Learning+New+Things+💡" alt="Typing SVG" />
-
+<!-- Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Omkar%20Mahadik&fontSize=40&fontAlign=50&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&center=true&vCenter=true&color=00BFFF&width=900&height=100&lines=Omkar+Mahadik;Full-Stack+Developer+%7C+Java+Enthusiast+%7C+Tech+Explorer" />
 </p>
 
+<!-- Name Heading -->
+<h1 align="center">Hey there, I'm Omkar Mahadik 👋</h1>
+
+<!-- Tagline -->
 <p align="center">
-  <a href="https://github.com/OmkarM9090"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/Omkar-Mahadik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:omkarmahadik180@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://portfolio-50590.web.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firebase&logoColor=white" /></a>
+  🚀 Full-Stack Developer &nbsp;|&nbsp; ☕ Java Enthusiast &nbsp;|&nbsp; 🛠️ Tech Explorer
+</p>
+
+<!-- Contact Badges -->
+<p align="center">
+  <a href="mailto:omkarmahadik180@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/Omkar-Mahadik">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=OmkarM9090&style=for-the-badge&color=green" alt="Profile views" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-🎓 Third-Year Computer Engineering Student @ Watumull Institute (2023–2027)  
-📚 CGPA: **8.67 / 10** (Till Semester 3)  
-💻 Passionate about Full-Stack Development, Java & real-world problem solving  
-🛠️ Tech Explorer | Builder | Debugger  
-🚀 Building impactful & user-focused products  
-🧠 I love learning, adapting and collaborating
+🎓 I'm currently pursuing my **Bachelor's in Computer Engineering** at *Watumull Institute of Technology*  
+📊 CGPA: **8.67 / 10** (till Semester 3)  
+💻 Passionate about building responsive web apps and scalable backend systems  
+🔍 Always curious about new tech, APIs, and how things work under the hood  
+💬 I enjoy solving real-world problems through code  
+🌐 Check out my portfolio: [portfolio-50590.web.app](https://portfolio-50590.web.app)
 
 ---
 
-### 🛠 Tech Stack
+### 🛠️ Skills & Tech Stack
 
-#### 👨‍💻 Languages:
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Languages:**  
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-#### 🌐 Frontend:
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-#### 🔧 Backend & Tools:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+**Backend & DB:**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
----
-
-### 🚀 Featured Projects
-
-| 📱 InstaVibe - Social Media App | 🖥️ SpeedoType - Typing Test |
-|---|---|
-| Instagram-like full-stack app with post uploads, search & feeds | Typing speed tester with real-time WPM, accuracy |
-| **Tech:** MERN, Cloudinary | **Tech:** React, CSS |
-
-| 📊 Attendance Management System | 💳 Virtual Banking System |
-|---|---|
-| GUI-based attendance manager with MySQL integration | ATM simulator with transfers, PIN mgmt, balance check |
-| **Tech:** Java, Swing, MySQL | **Tech:** Java, Swing, MySQL |
+**Tools & Cloud:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 ---
 
-### 📈 GitHub Stats
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OmkarM9090&theme=onedark&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmkarM9090&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <br/>
+</p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarM9090&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 ---
 
-### 🏆 Achievements & Activities
+### 📌 Projects
 
-- 🎖️ National Level Hackathon Participant - *Hack to Crack 2.0*
+- 🔗 **InstaVibe** – Full-stack social media app using MERN + Cloudinary  
+- 💻 **SpeedoType** – Typing test app with real-time WPM and accuracy  
+- 🗂️ **Attendance System** – Java GUI + MySQL for managing attendance  
+- 💳 **Virtual Banking System** – Java project simulating core banking features
+
+---
+
+### 🎓 Achievements & Certifications
+
+- 🥇 National Hackathon Participant - *Hack to Crack 2.0*
 - 📜 Certified in:
-  - Full Stack Web Development (MERN)
-  - Core Java Programming
+  - Full Stack (MERN)
+  - Core Java
   - MySQL
 
 ---
 
-### 📫 Let's Connect!
-
-Feel free to reach out for **collaborations, freelance work, or just a chat about tech** 💬
-
-📧 Email: [omkarmahadik180@gmail.com](mailto:omkarmahadik180@gmail.com)  
-🔗 LinkedIn: [Omkar Mahadik](https://www.linkedin.com/in/Omkar-Mahadik)  
-🌐 Portfolio: [portfolio-50590.web.app](https://portfolio-50590.web.app)
-
----
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
