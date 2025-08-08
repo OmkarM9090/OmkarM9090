@@ -3,12 +3,13 @@
 
 <div align="center">
 
-### 🚀 Full-Stack Developer | 💻 Tech Enthusiast | 🎓 Lifelong Learner
+<!-- Animated Role Tagline -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&color=00C9FF&width=600&lines=🚀+Full-Stack+Developer;💻+Tech+Enthusiast;🎓+Lifelong+Learner" alt="Typing SVG" />
 
 <h3>Hey there! I'm <strong>Omkar Mahadik</strong> 👋</h3>
 
 <p>
-  Passionate about building scalable full-stack web apps, learning new technologies, and solving real-world problems through code.
+  Passionate about building scalable full-stack applications, exploring cutting-edge technologies, and creating solutions that make an impact. I believe in writing clean, maintainable code and always strive for growth and innovation in the tech world.
 </p>
 
 <!-- SOCIAL LINKS -->
@@ -34,11 +35,10 @@
 
 ## 👨‍💻 About Me
 
-🎓 I'm a **Third-Year Computer Engineering** student at **Watumull Institute of Technology (2023–2027)**  
-📘 **CGPA:** `9.34`  
-🧠 I enjoy developing full-stack apps with modern web technologies and frameworks  
-🌱 Currently exploring **System Design** & **Advanced JavaScript**  
-💬 Ask me about **React, Node.js, MongoDB, Firebase, Java**
+🎓 I’m a **Third-Year Computer Engineering** student at **Watumull Institute of Technology (2023–2027)** with a strong academic foundation (**CGPA: 9.34**).  
+💡 I enjoy developing scalable, responsive full-stack web applications using modern technologies like **React**, **Node.js**, and **MongoDB**.  
+🧩 I’m continuously learning advanced concepts in **System Design**, **JavaScript**, and **Backend Architecture**.  
+💬 Feel free to reach out about **web development**, **backend engineering**, or **tech internships**.
 
 ---
 
@@ -84,7 +84,7 @@
 
 ---
 
-## 📈 GitHub Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarM9090&theme=react-dark" />
@@ -98,6 +98,21 @@
 - 🎖️ Full Stack Web Development (MERN)
 - 🎖️ Core Java Programming
 - 🎖️ MySQL
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="mailto:omkarmahadik180@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/Omkar-Mahadik" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,java,mongodb,cpp,git" />
+</div>
 
 ---
 
