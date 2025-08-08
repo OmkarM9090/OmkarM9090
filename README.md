@@ -107,7 +107,7 @@
   <a href="mailto:omkarmahadik180@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="(https://www.linkedin.com/in/omkar-mahadik-976532283/)" target="_blank">
+  <a href="https://linkedin.com/in/omkar-mahadik-976532283" target="_blank">
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
