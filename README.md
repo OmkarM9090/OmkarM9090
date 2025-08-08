@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Animated Role Tagline (Fixed) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F73C3C&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Omkar+Mahadik+👋;Passionate+Full-Stack+Developer+🚀;Java+%7C+MERN+%7C+MySQL+%7C+Firebase+🔥;Always+Learning+New+Things+💡" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F73C3C&center=true&vCenter=true&width=1000&lines=Passionate+Full-Stack+Developer+🚀;Java+%7C+MERN+%7C+MySQL+%7C+Firebase+🔥;Always+Learning+New+Things+💡" alt="Typing SVG" />
 
 <h3>Hey there! I'm <strong>Omkar Mahadik</strong> 👋</h3>
 
