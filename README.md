@@ -1,118 +1,168 @@
-<!-- TOP BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Omkar%20Mahadik&fontSize=45&fontAlign=50&fontColor=ffffff"/>
+🖥️ System Diagnostics Console
 
-<div align="center">
+[omkar-system]~$ systemctl status engineer-omkar.service
 
-<!-- Animated Role Tagline (Fixed) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F73C3C&center=true&vCenter=true&width=1000&lines=Passionate+Full-Stack+Developer+🚀;Java+%7C+MERN+%7C+MySQL+%7C+Firebase+🔥;Always+Learning+New+Things+💡" alt="Typing SVG" />
 
-<h3>Hey there! I'm <strong>Omkar Mahadik</strong> 👋</h3>
+● engineer-omkar.service - Multi-Paradigm Full-Stack & ML Engine
 
-<p>
-  Passionate about building scalable full-stack applications, exploring cutting-edge technologies, and creating solutions that make an impact. I believe in writing clean, maintainable code and always strive for growth and innovation in the tech world.
-</p>
+     Loaded: loaded (/etc/systemd/system/engineer-omkar.service; enabled)
 
-<!-- SOCIAL LINKS -->
-<p>
-  <a href="https://github.com/OmkarM9090" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/omkar-mahadik-976532283" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:omkarmahadik180@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-50590.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ffb703?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+     Active: active (running) since Year 2023
 
-<img src="https://komarev.com/ghpvc/?username=OmkarM9090&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
-</div>
+     Main PID: 2027 (Watumull_CE_Graduation)
 
----
+     Status: "Compiling robust neural networks, 3D WebGL interfaces, and scalable backends. Current CGPA: 8.67 / 10.0"
 
-## 👨‍💻 About Me
+     Tasks: Threaded (Full-Stack Engineering | Java System Dev | ML & NLP Integration)
 
-🎓 I’m a **Third-Year Computer Engineering** student at **Watumull Institute Of Engineering And Technology (2023–2027)** with a strong academic foundation (**CGPA: 8.67**).  
-💡 I enjoy developing scalable, responsive full-stack web applications using modern technologies like **React**, **Node.js**, and **MongoDB**.  
-🧩 I’m continuously learning advanced concepts in **System Design**, **JavaScript**, and **Backend Architecture**.  
-💬 Feel free to reach out about **web development**, **backend engineering**, or **tech internships**.
+🌐 Developer Profile REST API
 
----
+GET /api/v1/engineers/omkar-mahadik
 
-## 🚀 Featured Projects
 
-| ⭐ Project | 🔍 Description |
-|----------|----------------|
-| 🖼️ **InstaVibe - Social Media App** | Full-stack app with image uploads, post feed, auth, Cloudinary integration (MERN) |
-| ⌨️ **Speedo Type - Typing Test** | Typing speed calculator with WPM, accuracy & error metrics (React + CSS) |
-| 🧮 **Attendance Management System** | Java GUI for attendance, integrates with MySQL backend |
-| 🏧 **Virtual Banking System** | ATM simulator with features like PIN change, balance check (Java + MySQL) |
-| 🏆 **Leaderboard System** | Web app for ranking users with dynamic leaderboard & scores (MERN stack) |
+{
+  "developer": "Omkar Mahadik",
+  "academic_status": {
+    "degree": "Bachelor of Computer Engineering (Third-Year)",
+    "institute": "Watumull Institute Of Engineering And Technology",
+    "timeline": "2023 - 2027",
+    "cgpa_sem_5": "8.67 / 10.0"
+  },
+  "roles": [
+    "Full-Stack Developer",
+    "Java Developer",
+    "ML / AI Engineer"
+  ],
+  "operational_focus": [
+    "Scalable Backends & APIs", 
+    "3D Immersive Web Experiences", 
+    "LLMs & RAG Architectures"
+  ],
+  "open_to": [
+    "Remote Software Engineering Internships",
+    "Collaborative Open Source Projects",
+    "High-Performance System Challenges"
+  ]
+}
 
----
 
-## 💻 Tech Stack
+📦 Production Containers (docker ps -a)
 
-### 🧠 Languages
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css" />
+[omkar-system]~$ docker ps --format "table {{.Names}}\t{{.Image}}\t{{.Status}}\t{{.Ports}}"
 
-### 🌐 Web & Backend
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,mysql" />
 
-### ⚒️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,cloudinary" />
+CONTAINER NAME
 
----
+IMAGE / TECH STACK
 
-## 📊 GitHub Activity
+OPERATIONAL STATUS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmkarM9090&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarM9090&layout=compact&theme=tokyonight" height="170" />
-</p>
+EXPOSED FEATURES
 
----
+a11y-audit
 
-## 🏆 GitHub Trophies
+NextJS + FastAPI + Puppeteer
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmkarM9090&theme=gruvbox&row=1&column=6" />
-</p>
+🟢 Up & Auditing
 
----
+WCAG 2.2 Compliance Scraper, AI Agent Remediations
 
-## 📈 Contribution Graph
+legal-analyzer
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarM9090&theme=react-dark" />
-</p>
+Python + Gemini API + Vector DB
 
----
+🟢 Running Query
 
-## 🎓 Certifications & Achievements
+Contract Risk Assessment, RAG Pipeline, Semantic Chunking
 
-- 💻 *National Hackathon Finalist – Hack to Crack 2.0*
-- 🎖️ Full Stack Web Development (MERN)
-- 🎖️ Core Java Programming
-- 🎖️ MySQL
+swish-campus
 
----
+MERN Stack + Multer
 
-## 🤝 Let's Connect
+🟢 Up 24/7
 
-<div align="center">
-  <a href="mailto:omkarmahadik180@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/omkar-mahadik-976532283" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+Campus Network Feed, JWT Auth, RBAC Architecture
 
----
+csi-portal
 
-<!-- BOTTOM BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=footer"/>
+React + WebGL + ThreeJS + GSAP
+
+🟢 Live Render
+
+3D Interactive Web Experience, Automated Excel Registration
+
+speedo-type
+
+ReactJS + Pure CSS3
+
+🟢 Exited (0)
+
+High-fidelity Typing Engine, Performance & WPM Analytics
+
+🛠️ Config Manifest (cat configurations/engine-spec.yml)
+
+system_requirements:
+  languages:
+    - java (multithreaded backend architecture)
+    - python (machine learning, nlp, and ai automation)
+    - typescript & javascript (es6+)
+    - c / c++ (oops & core algorithms)
+    - sql (relational database indexing)
+
+  creative_frontend_and_3d:
+    - react_nextjs (production grade rendering)
+    - three_js & react_three_fiber (3d web landscapes)
+    - webgl (hardware accelerated graphics)
+    - gsap & framer_motion (highly fluid interactive motions)
+    - tailwind_css (responsive fluid interfaces)
+
+  orm_databases_and_backend:
+    - node_express_fastapi (asynchronous api layers)
+    - mongodb & postgresql (scalable schemas & data models)
+    - mysql & firebase (structured query operations)
+    - prisma (orm data modeling)
+    - supabase (backend-as-a-service architecture)
+
+  testing_and_tooling:
+    - docker (containerized execution)
+    - jest & supertest (comprehensive unit & api testing)
+    - git & github (version-controlled environments)
+    - postman (api mocking & validation)
+    - eslint & prettier (strict codebase linters)
+    - google_colab & cloudinary (cdns & ml sandbox environments)
+
+
+🎖️ System Kernels, Leadership & Milestones
+
+⚡ Technical Head (CSI Committee) @ WIET
+
+Successfully leading a high-performing 17-member technical committee organizing college-wide workshops.
+
+Designed and engineered the official CSI committee platform integrating Three.js, React-Three-Fiber, WebGL, and GSAP for a jaw-dropping immersive user interface.
+
+Automated user data entries directly into server-side databases saving manual administrative overhead during high-scale registrations.
+
+🏆 Technical House Winner — Crowned top technical performer within the university house challenges.
+
+🏆 Technical Quiz Competition Winner — Standard-bearer in technical reasoning, algorithmic logic, and computing paradigms.
+
+🚀 National Hackathon Finalist — Hack to Crack 2.0 (High-performance system design).
+
+🌐 Active Open-Source Contributor — Active codebase contributor to GirlScript Summer of Code (GSSOC) '26.
+
+📜 Verified Compilations (Certifications)
+
+🎓 MERN Full Stack Web Development — Highly scalable dynamic web applications.
+
+🧠 Machine Learning & Natural Language Processing (NLP) — Vector spaces, model tuning, and lexical modeling.
+
+🛢️ SQL Database Administration & Integration — Relational queries, optimizations, and data safety.
+
+🤖 Advanced Prompt Engineering — Multi-shot prompt tuning, system-role architecture, and AI-Agent pipelines.
+
+📊 Engine Performance Metrics
+
+[omkar-system]~$ git log --author="OmkarM9090" --oneline -n 1
+
+
+[omkar-system]~$ systemctl stop profile.service && logout
