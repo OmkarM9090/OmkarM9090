@@ -3,13 +3,13 @@
 
 <div align="center">
 
-<!-- Animated Role Tagline -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=00C9FF&center=true&vCenter=true&width=1000&lines=Full-Stack+Developer+🚀;Java+Systems+Developer+🔥;Machine+Learning+|+AI+Engineer+💡;Technical+Head+@+CSI+WIET+⚡" alt="Typing SVG" />
+<!-- Animated Role Tagline (Fixed) -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F73C3C&center=true&vCenter=true&width=1000&lines=Passionate+Full-Stack+Developer+🚀;Java+%7C+MERN+%7C+MySQL+%7C+Firebase+🔥;Always+Learning+New+Things+💡" alt="Typing SVG" />
 
 <h3>Hey there! I'm <strong>Omkar Mahadik</strong> 👋</h3>
 
 <p>
-  Passionate about architecting high-performance systems, training predictive architectures, and rendering immersive 3D interfaces. Bridging the gap between robust core computing logic and creative modern interactive frontends.
+  Passionate about building scalable full-stack applications, exploring cutting-edge technologies, and creating solutions that make an impact. I believe in writing clean, maintainable code and always strive for growth and innovation in the tech world.
 </p>
 
 <!-- SOCIAL LINKS -->
@@ -28,35 +28,91 @@
   </a>
 </p>
 
-<!-- ORIGINAL PROFILE VIEWS COUNTER (UNTOUCHED) -->
 <img src="https://komarev.com/ghpvc/?username=OmkarM9090&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
 </div>
 
 ---
 
-## 🖥️ System Diagnostics Console
+## 👨‍💻 About Me
 
-```bash
-[omkar-system]~$ systemctl status engineer-omkar.service
-● engineer-omkar.service - Multi-Paradigm Full-Stack & ML EngineLoaded: loaded (/etc/systemd/system/engineer-omkar.service; enabled)Active:  since Year 2023Main PID: 2027 (Watumull_CE_Graduation)Status: "Compiling robust neural networks, 3D WebGL interfaces, and scalable backends. Current CGPA: 8.67 / 10.0"Tasks: Threaded (Full-Stack Engineering | Java System Dev | ML & NLP Integration)🌐 Developer Profile REST APIHTTPGET /api/v1/engineers/omkar-mahadik
-JSON{
-  "developer": "Omkar Mahadik",
-  "academic_status": {
-    "degree": "Bachelor of Computer Engineering",
-    "institute": "Watumull Institute Of Engineering And Technology",
-    "timeline": "2023 - 2027",
-    "cgpa_cumulative": "8.67 / 10.0"
-  },
-  "roles": [
-    "Full-Stack Developer",
-    "Java Developer",
-    "ML / AI Engineer"
-  ],
-  "operational_focus": [
-    "Scalable Enterprise Backends & APIs", 
-    "3D Immersive WebGL Experiences", 
-    "LLMs, Prompt Engineering & RAG Architectures"
-  ]
-}
-📦 Production Containers (docker ps -a)Bash[omkar-system]~$ docker ps --format "table {{.Names}}\t{{.Image}}\t{{.Status}}\t{{.Ports}}"
-CONTAINER NAMEIMAGE / TECH STACKOPERATIONAL STATUSEXPOSED FEATURESally-auditNext.js + FastAPI + Puppeteer🟢 Up & AuditingAutomated WCAG 2.2 Compliance Scraper, AI Agent Remediationslegal-analyzerPython + Gemini API + Vector DB🟢 Running QueryContract Risk Assessment, RAG Pipeline, Semantic Chunkingswish-campusMERN Stack + Multer🟢 Up 24/7Campus Social Network, Secure JWT Auth, RBAC Architecturecsi-portalReact + WebGL + ThreeJS + GSAP🟢 Live RenderImmersive 3D UI, Creative Animations, Automated Excel Ingestionspeedo-typeReactJS + Pure CSS3🔴 Exited (0)High-fidelity Typing Engine, Real-time WPM & Performance Analytics🛠️ Config Manifest (cat configurations/engine-spec.yml)🧠 Languages & Core Logic🎨 Creative Frontend, Immersive 3D & UI🛢️ Backends, Databases & ORM Layer⚒️ Testing, DevOps & Sandboxes🎖️ System Kernels, Leadership & Milestones⚡ Technical Head (CSI Committee) @ WIET  Commanding an elite 17-member technical team to orchestrate, architect, and deploy college-level workshops, hackathons, and ecosystems including "Hackverse 2.0".  Designed and compiled the official CSI platform leveraging Three.js, React-Three-Fiber, WebGL, GSAP, and Framer Motion to deliver an outstanding interactive showcase.  Architected an automated user registration workflow piping structured live input logs directly to backend tracking matrix sheets, eliminating administrative overhead.  🏆 Technical House Winner — Evaluated as the topmost technical student performer across competitive engineering university house challenges.🏆 Technical Quiz Competition Winner — Ranked #1 for algorithmic problem-solving logic, architectural deduction, and core computational theories.🚀 National Hackathon Finalist — Hack to Crack 2.0 — Scaled deep functional systems under rigid time constraints against national programming nodes.  🌐 Open-Source Engine Driver — Actively contributing production code modules to GirlScript Summer of Code (GSSOC) '26.  📜 Verified Compilations (Certifications)🎓 MERN Full Stack Web Development — Engineering highly responsive, secured endpoints and transactional client layouts.  🧠 Machine Learning & Natural Language Processing (NLP) — Vectorization, model training sandboxes, context parsing, and generative execution.🛢️ SQL Database Administration & Integration — Optimizing relational tables, performance indexes, and query safety.  🤖 Advanced Prompt Engineering — Multi-shot execution blueprints, custom system-role topologies, and automated multi-agent chains.📊 Performance & Contribution LogsBash[omkar-system]~$ systemctl stop profile.service && logout
+🎓 I’m a **Third-Year Computer Engineering** student at **Watumull Institute Of Engineering And Technology (2023–2027)** with a strong academic foundation (**CGPA: 8.67**).  
+💡 I enjoy developing scalable, responsive full-stack web applications using modern technologies like **React**, **Node.js**, and **MongoDB**.  
+🧩 I’m continuously learning advanced concepts in **System Design**, **JavaScript**, and **Backend Architecture**.  
+💬 Feel free to reach out about **web development**, **backend engineering**, or **tech internships**.
+
+---
+
+## 🚀 Featured Projects
+
+| ⭐ Project | 🔍 Description |
+|----------|----------------|
+| 🖼️ **InstaVibe - Social Media App** | Full-stack app with image uploads, post feed, auth, Cloudinary integration (MERN) |
+| ⌨️ **Speedo Type - Typing Test** | Typing speed calculator with WPM, accuracy & error metrics (React + CSS) |
+| 🧮 **Attendance Management System** | Java GUI for attendance, integrates with MySQL backend |
+| 🏧 **Virtual Banking System** | ATM simulator with features like PIN change, balance check (Java + MySQL) |
+| 🏆 **Leaderboard System** | Web app for ranking users with dynamic leaderboard & scores (MERN stack) |
+
+---
+
+## 💻 Tech Stack
+
+### 🧠 Languages
+<img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css" />
+
+### 🌐 Web & Backend
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,mysql" />
+
+### ⚒️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,cloudinary" />
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmkarM9090&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarM9090&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=OmkarM9090&theme=gruvbox&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarM9090&theme=react-dark" />
+</p>
+
+---
+
+## 🎓 Certifications & Achievements
+
+- 💻 *National Hackathon Finalist – Hack to Crack 2.0*
+- 🎖️ Full Stack Web Development (MERN)
+- 🎖️ Core Java Programming
+- 🎖️ MySQL
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <a href="mailto:omkarmahadik180@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/omkar-mahadik-976532283" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<!-- BOTTOM BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=footer"/>
