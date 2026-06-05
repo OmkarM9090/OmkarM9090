@@ -35,7 +35,7 @@
 
 ## 👨‍💻 About Me
 
-🎓 I’m a **Third-Year Computer Engineering** student at **Watumull Institute Of Engineering And Technology (2023–2027)** with a strong academic foundation (**CGPA: 8.55**).  
+🎓 I’m a **Third-Year Computer Engineering** student at **Watumull Institute Of Engineering And Technology (2023–2027)** with a strong academic foundation (**CGPA: 8.67**).  
 💡 I enjoy developing scalable, responsive full-stack web applications using modern technologies like **React**, **Node.js**, and **MongoDB**.  
 🧩 I’m continuously learning advanced concepts in **System Design**, **JavaScript**, and **Backend Architecture**.  
 💬 Feel free to reach out about **web development**, **backend engineering**, or **tech internships**.
