@@ -1,118 +1,115 @@
-<!-- TOP BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Omkar%20Mahadik&fontSize=45&fontAlign=50&fontColor=ffffff"/>
-
-<div align="center">
-
-<!-- Animated Role Tagline (Fixed) -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F73C3C&center=true&vCenter=true&width=1000&lines=Passionate+Full-Stack+Developer+🚀;Java+%7C+MERN+%7C+MySQL+%7C+Firebase+🔥;Always+Learning+New+Things+💡" alt="Typing SVG" />
-
-<h3>Hey there! I'm <strong>Omkar Mahadik</strong> 👋</h3>
-
-<p>
-  Passionate about building scalable full-stack applications, exploring cutting-edge technologies, and creating solutions that make an impact. I believe in writing clean, maintainable code and always strive for growth and innovation in the tech world.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b26&height=220&section=header&text=OMKAR%20MAHADIK&fontSize=55&fontColor=7aa2f7&animation=twinkling" width="100%" />
 </p>
-
-<!-- SOCIAL LINKS -->
-<p>
-  <a href="https://github.com/OmkarM9090" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/omkar-mahadik-976532283" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:omkarmahadik180@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-50590.web.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ffb703?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=OmkarM9090&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
-</div>
-
----
-
-## 👨‍💻 About Me
-
-🎓 I’m a **Third-Year Computer Engineering** student at **Watumull Institute Of Engineering And Technology (2023–2027)** with a strong academic foundation (**CGPA: 8.67**).  
-💡 I enjoy developing scalable, responsive full-stack web applications using modern technologies like **React**, **Node.js**, and **MongoDB**.  
-🧩 I’m continuously learning advanced concepts in **System Design**, **JavaScript**, and **Backend Architecture**.  
-💬 Feel free to reach out about **web development**, **backend engineering**, or **tech internships**.
-
----
-
-## 🚀 Featured Projects
-
-| ⭐ Project | 🔍 Description |
-|----------|----------------|
-| 🖼️ **InstaVibe - Social Media App** | Full-stack app with image uploads, post feed, auth, Cloudinary integration (MERN) |
-| ⌨️ **Speedo Type - Typing Test** | Typing speed calculator with WPM, accuracy & error metrics (React + CSS) |
-| 🧮 **Attendance Management System** | Java GUI for attendance, integrates with MySQL backend |
-| 🏧 **Virtual Banking System** | ATM simulator with features like PIN change, balance check (Java + MySQL) |
-| 🏆 **Leaderboard System** | Web app for ranking users with dynamic leaderboard & scores (MERN stack) |
-
----
-
-## 💻 Tech Stack
-
-### 🧠 Languages
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css" />
-
-### 🌐 Web & Backend
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,mysql" />
-
-### ⚒️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,cloudinary" />
-
----
-
-## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmkarM9090&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarM9090&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=73daca&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer+%7C+MERN+Architect+🚀;Building+Next-Gen+Web+Applications+🔥;AI-ML+Integration+Enthusiast+🧠" alt="Typing SVG" />
 </p>
-
----
-
-## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmkarM9090&theme=gruvbox&row=1&column=6" />
+  <a href="https://linkedin.com/in/omkar-mahadik-976532283" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&black=true" /></a>
+  <a href="mailto:omkarmahadik180@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=OmkarM9090&style=for-the-badge&color=2ac3de&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## ⚡ Executive Brief
+
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+      <p>🧠 I am a <b>Computer Engineering student</b> with an absolute passion for building robust, scalable architectural backends and pixel-perfect interactive frontends.</p>
+      <p>🎯 Focused on writing clean, self-documenting code, optimization patterns, and designing secure full-stack infrastructures.</p>
+      <p>💼 <b>Current Focus:</b> Deep-diving into Advanced Backend Patterns, System Design Fundamentals, and Open Source contributions.</p>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://assets.digitalocean.com/blog/custom-images/cloud-ways-isometric.gif" width="180px" alt="3D Dev Loop" style="border-radius: 8px; opacity: 0.9;"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Engineered Stack
+
+<table width="100%">
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🔮 Core Languages</h4>
+      <img src="https://skillicons.dev/icons?i=java,js,cpp,c,html,css&perline=3" />
+    </td>
+    <td width="33%" valign="top">
+      <h4>🌐 Web Frameworks & Databases</h4>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,firebase&perline=3" />
+    </td>
+    <td width="34%" valign="top">
+      <h4>⚙️ DevOps & Tooling</h4>
+      <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,cloudinary&perline=3" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Showcased Implementations
+
+> **Note:** Here are select architectural implementations highlighting full-stack state management, security protocols, and relational database handling.
+
+📂 Engineering-Portfolio
+├── 🛡️ InstaVibe       # Full-Stack Social App [MERN + Cloudinary Core Architecture]
+├── 📊 Leaderboard     # High-Throughput Real-time Dynamic Rank Scaling App
+├── 🏦 Virtual-Bank    # Secure Terminal-driven ATM simulator Engine [Java + MySQL]
+└── 🖮 Speedo-Type     # Client-Side Real-time WPM Metrics & Precision Analytics Matrix
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Project System</th>
+      <th>Architectural Core & Features Breakdown</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🖼️ InstaVibe</b></td>
+      <td>End-to-end social engine featuring asset handling pipeline via Cloudinary, multi-layer secure authentication flow, and synchronous reactive post feed distribution metrics.</td>
+    </tr>
+    <tr>
+      <td><b>🏆 Dynamic Leaderboard</b></td>
+      <td>High-performance calculation matrix using the MERN stack to dynamically index, evaluate, and scale user ranks based on live transactional scoring modules.</td>
+    </tr>
+    <tr>
+      <td><b>📊 Attendance Engine</b></td>
+      <td>Desktop CRUD ecosystem built with a structured Java UI layer coupled seamlessly to a relational MySQL transactional database for persistent state storage.</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+## 📈 Real-Time Dev Matrix
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarM9090&theme=react-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OmkarM9090&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=7aa2f7&icon_color=73daca&text=a9b1d6" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarM9090&layout=compact&theme=tokyonight&bg_color=1a1b26&title_color=7aa2f7&text=a9b1d6" height="165" />
+</p>
+
+#### 🌌 3D City Contribution Grid
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarM9090&theme=tokyonight&bg_color=1a1b26" width="100%" />
 </p>
 
 ---
 
-## 🎓 Certifications & Achievements
+## 🎖️ Milestones & Accolades
 
-- 💻 *National Hackathon Finalist – Hack to Crack 2.0*
-- 🎖️ Full Stack Web Development (MERN)
-- 🎖️ Core Java Programming
-- 🎖️ MySQL
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-  <a href="mailto:omkarmahadik180@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/omkar-mahadik-976532283" target="_blank">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+* 💻 **National Hackathon Finalist** — *Hack to Crack 2.0*
+* 🎓 **Academic Excellence** — Maintained a strict **8.67 CGPA** track record in Computer Engineering.
+* 📜 Certifications in Core Java Engineering, Distributed MySQL Database Systems, and Advanced MERN Architectures.
 
 ---
 
-<!-- BOTTOM BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=footer"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=100&section=footer" width="100%"/>
+</p>
