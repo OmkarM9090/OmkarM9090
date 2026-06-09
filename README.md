@@ -202,87 +202,159 @@ systems**.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- ══════════════════════ SECTION 5 · TECH ARSENAL ══════════════════════ -->
+<!-- ══════════════════════ TECH ARSENAL ══════════════════════ -->
 
 <div align="center">
-  <h2>⟢ &nbsp; TECH ARSENAL &nbsp; ⟣</h2>
-  <sub>Animated core stack</sub>
 
-<br/><br/>
+# ⚔️ TECH ARSENAL
 
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="58" height="58" alt="Java" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="58" height="58" alt="JavaScript" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="58" height="58" alt="TypeScript" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="58" height="58" alt="C++" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="58" height="58" alt="React" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="58" height="58" alt="MySQL" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="58" height="58" alt="Docker" />
-&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="58" height="58" alt="REST API" />
+<sub>Technologies powering my full-stack, cloud and AI systems</sub>
 
 </div>
 
-<br/>
+<br>
 
-<table border="0" cellspacing="0" cellpadding="14" width="100%">
-<tr valign="top" align="center">
-<td width="33%">
+<!-- ================= CORE ENGINEERING ================= -->
 
-**`◢ CORE LANGUAGES`**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,cpp,c,js,ts&theme=dark" />
+## ⚡ Core Engineering
 
-</td>
-<td width="33%">
+<p>
 
-**`◢ FRONTEND`**
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="58" height="58" />
+&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" />
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="58" height="58" />
+&nbsp;&nbsp;
 
-</td>
-<td width="33%">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="58" height="58" />
+&nbsp;&nbsp;
 
-**`◢ BACKEND`**
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="58" height="58" />
+&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="58" height="58" />
+&nbsp;&nbsp;
 
-</td>
-</tr>
-<tr valign="top" align="center">
-<td width="33%">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="58" height="58" />
+&nbsp;&nbsp;
 
-**`◢ DATABASES`**
+<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="58" height="58" />
+&nbsp;&nbsp;
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
+<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="58" height="58" />
 
-</td>
-<td width="33%">
+</p>
 
-**`◢ DEVOPS`**
+</div>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
+<br>
 
-</td>
-<td width="33%">
+<!-- ================= DATABASES & CLOUD ================= -->
 
-**`◢ CLOUD & TOOLS`**
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=firebase,vscode,postman&theme=dark" />
-<br/>
-<sub>`Cloudinary`</sub>
+## ☁️ Databases • Cloud • Infrastructure
 
-</td>
-</tr>
-</table>
+<p>
+
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="58" height="58" />
+&nbsp;&nbsp;
+
+<img src="https://techstack-generator.vercel.app/postgresql-icon.svg" width="58" height="58" />
+&nbsp;&nbsp;
+
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="58" height="58" />
+&nbsp;&nbsp;
+
+<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="58" height="58" />
+&nbsp;&nbsp;
+
+<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="58" height="58" />
+&nbsp;&nbsp;
+
+<img src="https://techstack-generator.vercel.app/redis-icon.svg" width="58" height="58" />
+
+</p>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,nginx&theme=dark" />
+
+</div>
+
+<br>
+
+<!-- ================= FRONTEND EXPERIENCE ================= -->
+
+<div align="center">
+
+## 🎨 Frontend Experience Layer
+
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,threejs&theme=dark" />
+
+<br><br>
+
+<p>
+
+<img src="https://img.shields.io/badge/GSAP-1a1b26?style=for-the-badge&logo=greensock&logoColor=88ce02" />
+
+<img src="https://img.shields.io/badge/WebGL-1a1b26?style=for-the-badge&logo=webgl&logoColor=ff6b6b" />
+
+<img src="https://img.shields.io/badge/TanStack_Query-1a1b26?style=for-the-badge&logo=reactquery&logoColor=ff4154" />
+
+</p>
+
+<br>
+
+<p>
+
+<img src="https://img.shields.io/badge/WebSocket-1a1b26?style=for-the-badge&logo=socketdotio&logoColor=73daca" />
+
+</p>
+
+</div>
+
+<br>
+
+<!-- ================= AI & BACKEND SYSTEMS ================= -->
+
+<div align="center">
+
+## 🤖 AI • Backend Systems • Data Layer
+
+<img src="https://skillicons.dev/icons?i=express,fastapi,flask,prisma,pytorch,tensorflow&theme=dark" />
+
+<br><br>
+
+<p>
+
+<img src="https://img.shields.io/badge/LangChain-1a1b26?style=for-the-badge&logo=chainlink&logoColor=7aa2f7" />
+
+<img src="https://img.shields.io/badge/RAG-1a1b26?style=for-the-badge&logo=openai&logoColor=73daca" />
+
+<img src="https://img.shields.io/badge/AI_Agents-1a1b26?style=for-the-badge&logo=robotframework&logoColor=ff9e64" />
+
+</p>
+
+<br>
+
+<p>
+
+<img src="https://img.shields.io/badge/CNN-1a1b26?style=for-the-badge&logo=tensorflow&logoColor=ff6f00" />
+
+<img src="https://img.shields.io/badge/Machine_Learning-1a1b26?style=for-the-badge&logo=scikitlearn&logoColor=f7931e" />
+
+<img src="https://img.shields.io/badge/Scikit_Learn-1a1b26?style=for-the-badge&logo=scikitlearn&logoColor=f7931e" />
+
+</p>
+
+</div>
+
+<br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
 <!-- ══════════════════════ SECTION 6 · FULL STACK + AI ════════════════════ -->
 
 <div align="center">
