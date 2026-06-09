@@ -530,9 +530,6 @@ New systems are continuously deploying — AI agents, full-stack tooling &amp; o
 </tr>
 </table>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OmkarM9090&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
