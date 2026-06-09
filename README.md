@@ -2,21 +2,21 @@
 <!-- ║  OMKAR MAHADIK · DEVELOPER OPERATING SYSTEM · TOKYONIGHT EDITION       ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-<!-- ════════════════════════ SECTION 1 · HERO ENGINE ════════════════════════ -->
+<!-- ═══════════════════════ SECTION 1 · HERO LANDING ════════════════════════ -->
 
+<!-- ─────────── ANIMATED CAPSULE BANNER ─────────── -->
 <div align="center">
 
-<img src="https://images.weserv.nl/?url=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V4amN6bWZ6bXN0Y3FpeHBoZ3Z6N3R4YmpxN3B0NmE0M3RndXBsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="240" alt="Developer at study table" style="object-fit:cover; border-radius:16px;" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,16,20,24&text=OMKAR%20MAHADIK&fontSize=58&fontColor=c0caf5&fontAlignY=34&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Java%20Backend%20Developer%20%E2%80%A2%20AI%20Systems%20Explorer%20%E2%80%A2%20Open%20Source%20Contributor&descSize=16&descAlignY=54&animation=fadeIn&stroke=7aa2f7&strokeWidth=0" alt="Omkar Mahadik — banner" />
 
-<br/><br/>
-
+<!-- ─────────── DYNAMIC TYPING ENGINE ─────────── -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=900&color=7AA2F7&center=true&vCenter=true&width=620&height=70&lines=Full+Stack+Developer;Java+Backend+Engineer;Machine+Learning+Enthusiast;Open+Source+Contributor;Hackathon+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&height=64&lines=Building+Scalable+Systems;MERN+Stack+Developer;Java+Backend+Engineer;Machine+Learning+Enthusiast;Open+Source+Contributor;Hackathon+Finalist;Building+AI+Powered+Applications" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- ─────────── SYSTEM ACCESS BADGES ─────────── -->
+<!-- ─────────── ACCESS BADGES ─────────── -->
 <a href="https://linkedin.com/in/omkar-mahadik-976532283" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7&labelColor=1a1b26" alt="LinkedIn" />
 </a>
@@ -26,9 +26,93 @@
 <a href="https://portfolio-50590.web.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=google-chrome&logoColor=73daca&labelColor=1a1b26" alt="Portfolio" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=OmkarM9090&style=for-the-badge&color=7aa2f7&label=SYSTEM+ACCESS" alt="Profile Views" />
 
 </div>
+
+<br/>
+
+<!-- ─────────── DEVELOPER DASHBOARD CARD + HERO VISUAL ─────────── -->
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td width="56%" valign="top">
+
+```ruby
+┌─[ SYSTEM STATUS ]──────────────────────────┐
+│                                            │
+│   NAME           ›  Omkar Mahadik          │
+│   ROLE           ›  Full Stack Developer    │
+│   LOCATION       ›  Mumbai, India          │
+│   CGPA           ›  8.67 / 10.0             │
+│   STATUS         ›  ● ONLINE               │
+│   CURRENT_MISSION›  Building AI Systems    │
+│                                            │
+└────────────────────────────────────────────┘
+```
+
+</td>
+<td width="44%" valign="middle" align="center">
+
+<img src="https://images.weserv.nl/?url=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V4amN6bWZ6bXN0Y3FpeHBoZ3Z6N3R4YmpxN3B0NmE0M3RndXBsdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer at study table" style="border-radius:16px;" />
+
+</td>
+</tr>
+</table>
+
+<!-- ─────────── ANIMATED METRICS ROW (KPI CARDS) ─────────── -->
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=OmkarM9090&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/OmkarM9090?style=for-the-badge&logo=github&logoColor=7aa2f7&label=FOLLOWERS&labelColor=1a1b26&color=1a1b26" alt="Followers" />
+<img src="https://img.shields.io/github/stars/OmkarM9090?style=for-the-badge&logo=github&logoColor=ff9e64&label=STARS&labelColor=1a1b26&color=1a1b26" alt="Stars" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&logoColor=73daca&label=REPOSITORIES&labelColor=1a1b26&color=1a1b26&url=https://api.github.com/users/OmkarM9090&query=public_repos" alt="Repositories" />
+
+</div>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/cool-github-profiles/main/assets/colorful_line.gif" width="100%" />
+
+<!-- ════════════════════ SECTION 1B · MISSION CONTROL ════════════════════════ -->
+
+<div align="center">
+  <h2>⟢ &nbsp; MISSION CONTROL CENTER &nbsp; ⟣</h2>
+  <sub>Active learning missions — currently deploying</sub>
+</div>
+
+<table border="0" cellspacing="0" cellpadding="10" width="100%">
+<tr align="center">
+<td width="33%"><img src="https://img.shields.io/badge/▶_LangChain-1a1b26?style=for-the-badge&logo=langchain&logoColor=7aa2f7" alt="LangChain" /></td>
+<td width="33%"><img src="https://img.shields.io/badge/▶_LangGraph-1a1b26?style=for-the-badge&logo=langgraph&logoColor=73daca" alt="LangGraph" /></td>
+<td width="33%"><img src="https://img.shields.io/badge/▶_AI_Agents-1a1b26?style=for-the-badge&logo=openai&logoColor=ff9e64" alt="AI Agents" /></td>
+</tr>
+<tr align="center">
+<td><img src="https://img.shields.io/badge/▶_Docker-1a1b26?style=for-the-badge&logo=docker&logoColor=7aa2f7" alt="Docker" /></td>
+<td><img src="https://img.shields.io/badge/▶_PostgreSQL-1a1b26?style=for-the-badge&logo=postgresql&logoColor=73daca" alt="PostgreSQL" /></td>
+<td><img src="https://img.shields.io/badge/▶_Prisma-1a1b26?style=for-the-badge&logo=prisma&logoColor=ff9e64" alt="Prisma" /></td>
+</tr>
+</table>
+
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/cool-github-profiles/main/assets/colorful_line.gif" width="100%" />
+
+<!-- ════════════════════ SECTION 1C · ENGINEERING PHILOSOPHY ═════════════════ -->
+
+<div align="center">
+  <h2>⟢ &nbsp; ENGINEERING PHILOSOPHY &nbsp; ⟣</h2>
+</div>
+
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tr>
+<td align="center" valign="top" width="100%">
+
+> ### *"Architecture is a decision you make once and pay for every day after."*
+>
+> I build software the way infrastructure is engineered — with **intent**,
+> **observability**, and **longevity**. Code is read far more often than it is
+> written, so I optimize for the engineer who inherits it next.
+>
+> `clarity over cleverness` &nbsp;·&nbsp; `systems over scripts` &nbsp;·&nbsp; `secure by default` &nbsp;·&nbsp; `ship, measure, iterate`
+
+</td>
+</tr>
+</table>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/cool-github-profiles/main/assets/colorful_line.gif" width="100%" />
 
@@ -76,42 +160,51 @@ interface.
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/cool-github-profiles/main/assets/colorful_line.gif" width="100%" />
 
-<!-- ════════════════════ SECTION 3 · ENGINEERED STACK ════════════════════════ -->
+<!-- ════════════════════ SECTION 3 · TECH ARSENAL (BENTO) ════════════════════ -->
 
 <div align="center">
-  <h2>⟢ &nbsp; TECH STACK &amp; TOOLING &nbsp; ⟣</h2>
+  <h2>⟢ &nbsp; TECH ARSENAL &nbsp; ⟣</h2>
+  <sub>A bento grid of the systems I build with</sub>
 </div>
 
-<table border="0" cellspacing="0" cellpadding="14" width="100%">
+<table border="0" cellspacing="0" cellpadding="12" width="100%">
 <tr>
-<td width="33%" valign="top" align="center">
+<td width="60%" valign="top" align="center">
 
-**`CORE LANGUAGES`**
+**`◢ CORE LANGUAGES`**
 
 <img src="https://skillicons.dev/icons?i=java,cpp,c,js,html,css&theme=dark" />
 
-`Java` · `C++` · `C`
-`JavaScript` · `HTML` · `CSS`
+<sub>`Java` · `C++` · `C` · `JavaScript` · `HTML` · `CSS`</sub>
 
 </td>
-<td width="33%" valign="top" align="center">
+<td width="40%" valign="top" align="center">
 
-**`WEB & BACKEND`**
+**`◢ FRONTEND`**
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" />
 
-`React` · `Node.js` · `Express`
-`MongoDB` · `MySQL` · `Firebase`
+<sub>`React` · `Tailwind CSS`</sub>
 
 </td>
-<td width="33%" valign="top" align="center">
+</tr>
+<tr>
+<td width="60%" valign="top" align="center">
 
-**`DEVOPS & UTILITIES`**
+**`◢ WEB & BACKEND`**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&theme=dark" />
 
-`Git` · `GitHub` · `VS Code`
-`Postman` · `Docker` · `Cloudinary`
+<sub>`Node.js` · `Express` · `MongoDB` · `MySQL` · `PostgreSQL` · `Firebase`</sub>
+
+</td>
+<td width="40%" valign="top" align="center">
+
+**`◢ DEVOPS & UTILITIES`**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" />
+
+<sub>`Git` · `GitHub` · `VS Code` · `Postman` · `Docker` · `Cloudinary`</sub>
 
 </td>
 </tr>
@@ -145,7 +238,7 @@ interface.
 <!-- ════════════════════ SECTION 4 · FEATURED PROJECTS ═══════════════════════ -->
 
 <div align="center">
-  <h2>⟢ &nbsp; PRODUCTION-CORE · FEATURED SYSTEMS &nbsp; ⟣</h2>
+  <h2>⟢ &nbsp; PROJECT SHOWCASE · PRODUCTION-CORE &nbsp; ⟣</h2>
 </div>
 
 ```bash
@@ -157,116 +250,98 @@ interface.
  └── ⌨️  Speedo-Type     # Real-Time Client-Side Analytics & Precision Matrix [React]
 ```
 
-<table border="0" cellspacing="0" cellpadding="12" width="100%">
-<thead>
-<tr>
-<th align="left">Project System</th>
-<th align="left">Core Architectural Features Breakdown</th>
-<th align="center">Access Hub</th>
-</tr>
-</thead>
-<tbody>
+<!-- ─────────── PREMIUM PROJECT CARDS (BENTO) ─────────── -->
+<table border="0" cellspacing="0" cellpadding="16" width="100%">
 
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-**🛡️ InstaVibe**
-<br/><sub>`MERN`</sub>
+### 🛡️ &nbsp;InstaVibe
+`MERN` &nbsp;`Cloudinary` &nbsp;`JWT`
 
-</td>
-<td valign="top">
+Full-stack social network with JWT auth, image uploads via **Cloudinary**, a live post feed, likes &amp; profiles.
 
-Full-stack social network — JWT auth, image uploads via **Cloudinary**, post feed, likes &amp; profiles. Stateless REST API with a normalized **MongoDB** document model.
+**▹ Architecture** · Stateless REST API over a normalized MongoDB document model.
+**▹ Highlights** · Auth flow · media pipeline · feed aggregation.
 
-</td>
-<td align="center" valign="middle">
-
-<a href="https://github.com/OmkarM9090/InstaVibe"><img src="https://img.shields.io/badge/Code-1a1b26?style=flat-square&logo=github&logoColor=7aa2f7" alt="code" /></a>
-<br/>
-<a href="https://instavibe-app.web.app"><img src="https://img.shields.io/badge/Live-1a1b26?style=flat-square&logo=vercel&logoColor=73daca" alt="live" /></a>
+<a href="https://github.com/OmkarM9090/InstaVibe"><img src="https://img.shields.io/badge/Source-1a1b26?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="code" /></a>
+<a href="https://instavibe-app.web.app"><img src="https://img.shields.io/badge/Live_Demo-1a1b26?style=for-the-badge&logo=vercel&logoColor=73daca" alt="live" /></a>
 
 </td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td valign="top">
+### 🏆 &nbsp;Leaderboard System
+`MERN` &nbsp;`Real-Time`
 
-**🏆 Leaderboard**
-<br/><sub>`MERN`</sub>
+High-throughput live ranking engine with dynamic score recalculation and real-time leaderboard rendering.
 
-</td>
-<td valign="top">
+**▹ Architecture** · Sorted aggregation queries with a reactive React surface.
+**▹ Highlights** · Live ranking · score deltas · scalable reads.
 
-High-throughput live ranking engine — dynamic score recalculation, sorted aggregation queries, and real-time leaderboard rendering with a reactive **React** front end.
-
-</td>
-<td align="center" valign="middle">
-
-<a href="https://github.com/OmkarM9090/Leaderboard-System"><img src="https://img.shields.io/badge/Code-1a1b26?style=flat-square&logo=github&logoColor=7aa2f7" alt="code" /></a>
+<a href="https://github.com/OmkarM9090/Leaderboard-System"><img src="https://img.shields.io/badge/Source-1a1b26?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="code" /></a>
 
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-**🏦 Virtual Banking**
-<br/><sub>`Java · MySQL`</sub>
+### 🏦 &nbsp;Virtual Banking System
+`Java` &nbsp;`MySQL`
 
-</td>
-<td valign="top">
+Relational transactional simulator — ATM workflows, PIN change, balance inquiry, deposits &amp; withdrawals.
 
-Relational transactional simulator — ATM workflows, PIN change, balance inquiry, and deposit/withdraw operations backed by ACID-safe **MySQL** state management.
+**▹ Architecture** · ACID-safe MySQL state management.
+**▹ Highlights** · Transaction integrity · session flows · secure PIN handling.
 
-</td>
-<td align="center" valign="middle">
-
-<a href="https://github.com/OmkarM9090/Virtual-Banking-System"><img src="https://img.shields.io/badge/Code-1a1b26?style=flat-square&logo=github&logoColor=7aa2f7" alt="code" /></a>
+<a href="https://github.com/OmkarM9090/Virtual-Banking-System"><img src="https://img.shields.io/badge/Source-1a1b26?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="code" /></a>
 
 </td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td valign="top">
+### 🗂️ &nbsp;Attendance Management
+`Java` &nbsp;`MySQL`
 
-**🗂️ Attendance Mgmt**
-<br/><sub>`Java · MySQL`</sub>
+Desktop GUI attendance system with full record CRUD and a structured persistence layer.
 
-</td>
-<td valign="top">
+**▹ Architecture** · Persistent MySQL backend with a normalized schema.
+**▹ Highlights** · Student tracking · session records · GUI workflows.
 
-Desktop GUI attendance system — record CRUD, persistent **MySQL** backend, and a structured schema for student and session tracking.
-
-</td>
-<td align="center" valign="middle">
-
-<a href="https://github.com/OmkarM9090/Attendance-Management-System"><img src="https://img.shields.io/badge/Code-1a1b26?style=flat-square&logo=github&logoColor=7aa2f7" alt="code" /></a>
+<a href="https://github.com/OmkarM9090/Attendance-Management-System"><img src="https://img.shields.io/badge/Source-1a1b26?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="code" /></a>
 
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-**⌨️ Speedo Type**
-<br/><sub>`React`</sub>
+### ⌨️ &nbsp;Speedo Type
+`React` &nbsp;`Analytics`
+
+Real-time typing analytics — WPM, accuracy and error-rate computed live, client-side.
+
+**▹ Architecture** · Client-side precision metrics matrix with live keystroke evaluation.
+**▹ Highlights** · WPM engine · accuracy scoring · instant feedback.
+
+<a href="https://github.com/OmkarM9090/Speedo-Type"><img src="https://img.shields.io/badge/Source-1a1b26?style=for-the-badge&logo=github&logoColor=7aa2f7" alt="code" /></a>
+<a href="https://speedo-type.web.app"><img src="https://img.shields.io/badge/Live_Demo-1a1b26?style=for-the-badge&logo=vercel&logoColor=73daca" alt="live" /></a>
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
-Real-time typing analytics — WPM, accuracy, and error-rate computation rendered client-side with a precision metrics matrix and live keystroke evaluation.
+### ✦ &nbsp;More on the way
+`In Development`
 
-</td>
-<td align="center" valign="middle">
+New systems are continuously deploying from the lab — AI agents, full-stack
+tooling, and open-source utilities.
 
-<a href="https://github.com/OmkarM9090/Speedo-Type"><img src="https://img.shields.io/badge/Code-1a1b26?style=flat-square&logo=github&logoColor=7aa2f7" alt="code" /></a>
-<br/>
-<a href="https://speedo-type.web.app"><img src="https://img.shields.io/badge/Live-1a1b26?style=flat-square&logo=vercel&logoColor=73daca" alt="live" /></a>
+**▹ Focus** · LangChain · AI Agents · Dockerized services.
+
+<a href="https://github.com/OmkarM9090?tab=repositories"><img src="https://img.shields.io/badge/All_Repositories-1a1b26?style=for-the-badge&logo=github&logoColor=ff9e64" alt="all repos" /></a>
 
 </td>
 </tr>
 
-</tbody>
 </table>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/cool-github-profiles/main/assets/colorful_line.gif" width="100%" />
