@@ -202,111 +202,74 @@ systems**.
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<!-- ══════════════════════ SECTION 5 · TECH ARSENAL ══════════════════════ -->
-
 <div align="center">
   <h2>⟢ &nbsp; TECH ARSENAL &nbsp; ⟣</h2>
   <sub>The technology layers powering my full-stack, cloud &amp; AI systems</sub>
 
-<br/><br/>
+  <br/><br/>
 
-<!-- Featured animated icons — verified techstack-generator assets only -->
-<img src="https://techstack-generator.vercel.app/java-icon.svg" width="50" height="50" alt="Java" />&nbsp;&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />&nbsp;&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript" />&nbsp;&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" height="50" alt="C++" />&nbsp;&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React" />&nbsp;&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="MySQL" />&nbsp;&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />&nbsp;&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes" />&nbsp;&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/aws-icon.svg" width="50" height="50" alt="AWS" />&nbsp;&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="50" height="50" alt="Nginx" />&nbsp;&nbsp;&nbsp;
-<img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="50" height="50" alt="GraphQL" />
-
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" width="42" height="42" alt="Java" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="42" height="42" alt="Python" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="42" height="42" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="42" height="42" alt="TypeScript" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="42" height="42" alt="C++" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="42" height="42" alt="React" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="42" height="42" alt="MySQL" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="42" height="42" alt="Docker" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" width="42" height="42" alt="Kubernetes" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="42" height="42" alt="AWS" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="42" height="42" alt="Nginx" />&nbsp;&nbsp;
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="42" height="42" alt="GraphQL" />
 </div>
 
+<br/><br/>
+
+<table border="0" cellspacing="0" cellpadding="10" width="100%" style="border-collapse: collapse;">
+  <tr>
+    <td width="50%" align="center" valign="top" style="border: 1px solid #24283b; border-radius: 8px; background-color: #1a1b26; padding: 15px;">
+      <strong><code>⚡ LAYER 01 · CORE ENGINEERING</code></strong>
+      <br/><sub>Languages &amp; runtimes for production builds</sub>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,react,nodejs&theme=dark" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/REST_APIs-1a1b26?style=for-the-badge&logo=fastapi&logoColor=73daca&labelColor=1a1b26" alt="REST APIs" />
+    </td>
+    <td width="50%" align="center" valign="top" style="border: 1px solid #24283b; border-radius: 8px; background-color: #1a1b26; padding: 15px;">
+      <strong><code>☁️ LAYER 02 · CLOUD &amp; DATA DEPLOY</code></strong>
+      <br/><sub>Persistence pipelines &amp; infrastructure</sub>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,kubernetes,aws,nginx,firebase&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top" style="border: 1px solid #24283b; border-radius: 8px; background-color: #1a1b26; padding: 15px;">
+      <strong><code>🎨 LAYER 03 · FRONTEND ARCHITECTURE</code></strong>
+      <br/><sub>Interfaces, core motion &amp; client state</sub>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,tailwind,threejs&theme=dark" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/GSAP-1a1b26?style=for-the-badge&logo=greensock&logoColor=88ce02&labelColor=1a1b26" alt="GSAP" />
+      <img src="https://img.shields.io/badge/WebGL-1a1b26?style=for-the-badge&logo=webgl&logoColor=ff9e64&labelColor=1a1b26" alt="WebGL" />
+      <br/>
+      <img src="https://img.shields.io/badge/TanStack_Query-1a1b26?style=for-the-badge&logo=reactquery&logoColor=ff4154&labelColor=1a1b26" alt="TanStack Query" />
+      <img src="https://img.shields.io/badge/WebSocket-1a1b26?style=for-the-badge&logo=socketdotio&logoColor=73daca&labelColor=1a1b26" alt="WebSocket" />
+    </td>
+    <td width="50%" align="center" valign="top" style="border: 1px solid #24283b; border-radius: 8px; background-color: #1a1b26; padding: 15px;">
+      <strong><code>🤖 LAYER 04 · INTELLIGENT AI CORES</code></strong>
+      <br/><sub>Neural data networks &amp; server routing</sub>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=express,fastapi,flask,prisma,tensorflow,pytorch,sklearn&theme=dark" />
+      <br/><br/>
+      <img src="https://img.shields.io/badge/LangChain-1a1b26?style=for-the-badge&logo=langchain&logoColor=7aa2f7&labelColor=1a1b26" alt="LangChain" />
+      <img src="https://img.shields.io/badge/RAG-1a1b26?style=for-the-badge&logo=openai&logoColor=73daca&labelColor=1a1b26" alt="RAG" />
+      <br/>
+      <img src="https://img.shields.io/badge/AI_Agents-1a1b26?style=for-the-badge&logo=robotframework&logoColor=ff9e64&labelColor=1a1b26" alt="AI Agents" />
+      <img src="https://img.shields.io/badge/CNN-1a1b26?style=for-the-badge&logo=tensorflow&logoColor=ff6f00&labelColor=1a1b26" alt="CNN" />
+    </td>
+  </tr>
+</table>
+
 <br/>
-
-<!-- ─── LAYER 1 · CORE ENGINEERING ─── -->
-<table border="0" cellspacing="0" cellpadding="18" width="100%">
-<tr>
-<td align="center">
-
-**`⚡ LAYER 01 · CORE ENGINEERING`**
-<br/><sub>Languages &amp; runtimes I build production systems with</sub>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,react,nodejs&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/REST_APIs-1a1b26?style=for-the-badge&logo=fastapi&logoColor=73daca&labelColor=1a1b26" alt="REST APIs" />
-
-</td>
-</tr>
-</table>
-
-<!-- ─── LAYER 2 · DATABASES • CLOUD • INFRASTRUCTURE ─── -->
-<table border="0" cellspacing="0" cellpadding="18" width="100%">
-<tr>
-<td align="center">
-
-**`☁️ LAYER 02 · DATABASES • CLOUD • INFRASTRUCTURE`**
-<br/><sub>Persistence, containers &amp; the platforms it all runs on</sub>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,docker,kubernetes,aws,nginx,firebase&theme=dark" />
-
-</td>
-</tr>
-</table>
-
-<!-- ─── LAYER 3 · FRONTEND EXPERIENCE ─── -->
-<table border="0" cellspacing="0" cellpadding="18" width="100%">
-<tr>
-<td align="center">
-
-**`🎨 LAYER 03 · FRONTEND EXPERIENCE`**
-<br/><sub>Interfaces, motion &amp; real-time client architecture</sub>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind,threejs&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/GSAP-1a1b26?style=for-the-badge&logo=greensock&logoColor=88ce02&labelColor=1a1b26" alt="GSAP" />
-<img src="https://img.shields.io/badge/WebGL-1a1b26?style=for-the-badge&logo=webgl&logoColor=ff9e64&labelColor=1a1b26" alt="WebGL" />
-<img src="https://img.shields.io/badge/TanStack_Query-1a1b26?style=for-the-badge&logo=reactquery&logoColor=ff4154&labelColor=1a1b26" alt="TanStack Query" />
-<img src="https://img.shields.io/badge/WebSocket-1a1b26?style=for-the-badge&logo=socketdotio&logoColor=73daca&labelColor=1a1b26" alt="WebSocket" />
-
-</td>
-</tr>
-</table>
-
-<!-- ─── LAYER 4 · AI • BACKEND SYSTEMS ─── -->
-<table border="0" cellspacing="0" cellpadding="18" width="100%">
-<tr>
-<td align="center">
-
-**`🤖 LAYER 04 · AI • BACKEND SYSTEMS`**
-<br/><sub>Server frameworks, data layers &amp; intelligent systems</sub>
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=express,fastapi,flask,prisma,tensorflow,pytorch,sklearn&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LangChain-1a1b26?style=for-the-badge&logo=langchain&logoColor=7aa2f7&labelColor=1a1b26" alt="LangChain" />
-<img src="https://img.shields.io/badge/RAG-1a1b26?style=for-the-badge&logo=openai&logoColor=73daca&labelColor=1a1b26" alt="RAG" />
-<img src="https://img.shields.io/badge/AI_Agents-1a1b26?style=for-the-badge&logo=robotframework&logoColor=ff9e64&labelColor=1a1b26" alt="AI Agents" />
-<img src="https://img.shields.io/badge/CNN-1a1b26?style=for-the-badge&logo=tensorflow&logoColor=ff6f00&labelColor=1a1b26" alt="CNN" />
-
-</td>
-</tr>
-</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <!-- ══════════════════════ SECTION 6 · FULL STACK + AI ════════════════════ -->
