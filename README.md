@@ -5,7 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:1a1b26,45:414868,100:7aa2f7&text=OMKAR%20MAHADIK&fontSize=62&fontColor=c0caf5&fontAlignY=36&desc=Full%20Stack%20Engineer%20%E2%80%A2%20Java%20Backend%20Developer%20%E2%80%A2%20AI%20Systems%20Explorer%20%E2%80%A2%20Open%20Source%20Contributor&descSize=16&descAlignY=58&animation=fadeIn" alt="Omkar Mahadik" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&height=64&lines=Building+Scalable+Systems;MERN+Stack+Developer;Java+Backend+Engineer;Machine+Learning+Enthusiast;Open+Source+Contributor;Hackathon+Finalist;Building+AI+Powered+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=900&color=7AA2F7&center=true&vCenter=true&width=720&height=64&lines=Building+Scalable+Systems;MERN+Stack+Developer;Java+Backend+Engineer;Machine+Learning+Enthusiast;Open+Source+Contributor;Building+AI+Powered+Applications;Ai+Engineer" alt="Typing SVG" />
 </a>
 
 <br/>
