@@ -316,7 +316,7 @@ systems**.
  ├── 🛡️  InstaVibe       # Full-Stack Social Networking Architecture        [MERN]
  ├── 🏆  Leaderboard     # High-Throughput Live Ranking Calculation System  [MERN]
  ├── 🏦  Virtual-Bank    # Relational State Transactional Simulator Engine  [Java + MySQL]
- ├── 🗂️  Attendance      # Desktop GUI Attendance & Records Management       [Java + MySQL]
+ ├── 🗂️  Attendance      # Automated Attendance System       [MERN]
  └── ⌨️  Speedo-Type     # Real-Time Client-Side Analytics & Precision Matrix [React]
 ```
 
